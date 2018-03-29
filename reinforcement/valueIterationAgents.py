@@ -100,7 +100,6 @@ class ValueIterationAgent(ValueEstimationAgent):
             Qv += trans_prob * (trans_reward + (trans_lambda * self.values[trans_state]))
         return Qv
 
-        #util.raiseNotDefined()
 
     def computeActionFromValues(self, state):
         """
@@ -122,7 +121,6 @@ class ValueIterationAgent(ValueEstimationAgent):
                     init_Q = Qv
                     init_action = a
             return init_action
-        #util.raiseNotDefined()
 
     def getPolicy(self, state):
         return self.computeActionFromValues(state)

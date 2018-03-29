@@ -103,22 +103,7 @@ class QLearningAgent(ReinforcementAgent):
                 print PossibleActions
             return bestAction
         return None
-        '''
-        PossibleActions = self.getLegalActions(state)
-        if len(PossibleActions) == 0:
-            return None
-        init_action = PossibleActions[0]
-        init_Q = self.getQValue(state,init_action)
-        for a in PossibleActions:
-            Qvalue = self.getQValue(state,a)
-            if Qvalue >= init_Q:
-                init_Q = Qvalue
-                init_action = a
-        if init_Q == 0.0:
-            return random.choice(PossibleActions)
-        else:
-            return init_action
-        '''
+
 
     def getAction(self, state):
         """
@@ -163,23 +148,6 @@ class QLearningAgent(ReinforcementAgent):
             sample = reward + self.discount * max(Q_array) # sample now includes reward from s'
         Vpi_s = self.getQValue(state,action)
         self.Qvalues[(state,action)] = Vpi_s + self.alpha * (sample - Vpi_s)
-        '''
-        legalActions = self.getLegalActions(nextState)
-        if legalActions is not None:
-            Qmax = float("-inf")
-            for a in legalActions:
-                Qvalue = self.getQValue(nextState,a)
-                if Qvalue >= Qmax:
-                    Qmax = Qvalue
-            Vpi_prime = Qmax
-            R = reward
-            Sample = R + (self.discount * Vpi_prime)
-            Vpi = self.getQValue(state,action)
-            self.Qvalues[(state,action)] = Vpi + self.alpha * (Sample - Vpi)
-        else:
-            Vpi = self.getQValue(state, action)
-            self.Qvalues[(state,action)] = Vpi + self.alpha * (reward - Vpi)
-        '''
 
 
     def getPolicy(self, state):
