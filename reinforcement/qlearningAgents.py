@@ -4,7 +4,7 @@
 # educational purposes provided that (1) you do not distribute or publish
 # solutions, (2) you retain this notice, and (3) you provide clear
 # attribution to UC Berkeley, including a link to http://ai.berkeley.edu.
-# 
+#
 # Attribution Information: The Pacman AI projects were developed at UC Berkeley.
 # The core projects and autograders were primarily created by John DeNero
 # (denero@cs.berkeley.edu) and Dan Klein (klein@cs.berkeley.edu).
@@ -66,16 +66,21 @@ class QLearningAgent(ReinforcementAgent):
           terminal state, you should return a value of 0.0.
         """
         "*** YOUR CODE HERE ***"
-        PossibleActions = self.getLegalActions(state)
-        if PossibleActions is None:
+        # PossibleActions = self.getLegalActions(state)
+        # if PossibleActions is None:
+        #     return 0.0
+        # else:
+        #     Qmax = float("-inf")
+        #     for a in PossibleActions:
+        #         Qvalue = self.getQValue(state,a)
+        #         if Qvalue >= Qmax:
+        #             Qmax = Qvalue
+        #     return Qmax
+
+        actions = self.getLegalActions(state)
+        if len(actions) == 0:
             return 0.0
-        else:
-            Qmax = float("-inf")
-            for a in PossibleActions:
-                Qvalue = self.getQValue(state,a)
-                if Qvalue >= Qmax:
-                    Qmax = Qvalue
-            return Qmax
+        return max([self.getQValue(state,action) for action in actions])
 
 
     def computeActionFromQValues(self, state):
