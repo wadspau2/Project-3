@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e31d8c48-ceef-4dd7-b1f9-3076d30896c5" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reinforcement/test_cases/q8/1-tinygrid.test_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reinforcement/test_cases/q8/2-tinygrid-noisy.test_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reinforcement/test_cases/q8/3-bridge.test_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reinforcement/test_cases/q8/4-discountgrid.test_output" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/reinforcement/test_cases/q8/5-coord-extractor.test_output" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reinforcement/qlearningAgents.py" afterPath="$PROJECT_DIR$/reinforcement/qlearningAgents.py" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/reinforcement/valueIterationAgents.py" afterPath="$PROJECT_DIR$/reinforcement/valueIterationAgents.py" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,19 +16,44 @@
       <file leaf-file-name="valueIterationAgents.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reinforcement/valueIterationAgents.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2040">
-              <caret line="122" column="30" lean-forward="false" selection-start-line="122" selection-start-column="30" selection-end-line="122" selection-end-column="30" />
-              <folding />
+            <state relative-caret-position="2023">
+              <caret line="121" column="30" lean-forward="false" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="30" />
+              <folding>
+                <marker date="1522361746000" expanded="true" signature="793:6137" ph="..." />
+                <marker date="1522361746000" expanded="true" signature="4278:4822" ph="..." />
+                <marker date="1522361746000" expanded="true" signature="5842:5893" ph="..." />
+                <marker date="1522361746000" expanded="true" signature="5926:6037" ph="..." />
+                <marker date="1522361746000" expanded="true" signature="6078:6137" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="qlearningAgents.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="qlearningAgents.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reinforcement/qlearningAgents.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-669">
-              <caret line="149" column="76" lean-forward="false" selection-start-line="149" selection-start-column="76" selection-end-line="149" selection-end-column="76" />
-              <folding />
+            <state relative-caret-position="2363">
+              <caret line="139" column="32" lean-forward="false" selection-start-line="139" selection-start-column="32" selection-end-line="139" selection-end-column="32" />
+              <folding>
+                <marker date="1522361746000" expanded="true" signature="5611:5780" ph="..." />
+                <marker date="1522361746000" expanded="true" signature="5645:5697" ph="..." />
+                <marker date="1522361746000" expanded="true" signature="5729:5780" ph="..." />
+                <marker date="1522361746000" expanded="true" signature="5818:6969" ph="..." />
+                <marker date="1522361746000" expanded="true" signature="5980:6640" ph="..." />
+                <marker date="1522361746000" expanded="true" signature="5989:6410" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1522361746000" expanded="true" signature="6673:6969" ph="..." />
+                <marker date="1522361746000" expanded="true" signature="6682:6857" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1522361746000" expanded="true" signature="7010:8900" ph="..." />
+                <marker date="1522361746000" expanded="true" signature="7015:7192" ph="&quot;&quot;&quot;ApproximateQLearningAgent...&quot;&quot;&quot;" />
+                <marker date="1522361746000" expanded="true" signature="7255:7402" ph="..." />
+                <marker date="1522361746000" expanded="true" signature="7429:7457" ph="..." />
+                <marker date="1522361746000" expanded="true" signature="7498:7942" ph="..." />
+                <marker date="1522361746000" expanded="true" signature="7507:7627" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1522361746000" expanded="true" signature="7999:8473" ph="..." />
+                <marker date="1522361746000" expanded="true" signature="8008:8081" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+                <marker date="1522361746000" expanded="true" signature="8502:8900" ph="..." />
+                <marker date="1522361746000" expanded="true" signature="8714:8900" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,11 +78,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="autograder.py" pinned="false" current-in-tab="false">
+      <file leaf-file-name="autograder.py" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/reinforcement/autograder.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="51">
-              <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
+            <state relative-caret-position="170">
+              <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -73,8 +91,8 @@
       <file leaf-file-name="pacman.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/reinforcement/pacman.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="631" column="37" lean-forward="true" selection-start-line="631" selection-start-column="37" selection-end-line="631" selection-end-column="37" />
+            <state relative-caret-position="10608">
+              <caret line="631" column="37" lean-forward="false" selection-start-line="631" selection-start-column="37" selection-end-line="631" selection-end-column="37" />
               <folding />
             </state>
           </provider>
@@ -117,10 +135,10 @@
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1912" />
+    <option name="x" value="-8" />
     <option name="y" value="-8" />
-    <option name="width" value="1936" />
-    <option name="height" value="1056" />
+    <option name="width" value="1616" />
+    <option name="height" value="876" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -138,8 +156,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,7 +177,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="E:/Computer Vision/Cube" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -173,7 +191,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.ApproximateQAgent">
+  <component name="RunManager" selected="Python.autograder">
     <configuration name="ApproximateQAgent" type="PythonConfigurationType" factoryName="Python">
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -326,8 +344,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
-    <editor active="true" />
+    <frame x="-8" y="-8" width="1616" height="876" extended-state="6" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.134375" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -361,7 +378,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="121" column="31" lean-forward="false" selection-start-line="121" selection-start-column="31" selection-end-line="121" selection-end-column="31" />
-          <folding />
+          <folding>
+            <marker date="1522361746000" expanded="true" signature="793:6137" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="4278:4822" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5842:5893" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5926:6037" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="6078:6137" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -369,7 +392,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="4046">
           <caret line="242" column="17" lean-forward="false" selection-start-line="242" selection-start-column="17" selection-end-line="242" selection-end-column="17" />
-          <folding />
+          <folding>
+            <marker date="1522361746000" expanded="true" signature="5611:5780" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5645:5697" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5729:5780" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5818:6969" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5980:6640" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5989:6410" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="6673:6969" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="6682:6857" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7010:8900" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7015:7192" ph="&quot;&quot;&quot;ApproximateQLearningAgent...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7255:7402" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7429:7457" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7498:7942" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7507:7627" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7999:8473" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="8008:8081" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="8502:8900" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="8714:8900" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -425,7 +467,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="121" column="31" lean-forward="false" selection-start-line="121" selection-start-column="31" selection-end-line="121" selection-end-column="31" />
-          <folding />
+          <folding>
+            <marker date="1522361746000" expanded="true" signature="793:6137" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="4278:4822" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5842:5893" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5926:6037" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="6078:6137" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -433,7 +481,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2516">
           <caret line="152" column="78" lean-forward="false" selection-start-line="152" selection-start-column="78" selection-end-line="152" selection-end-column="78" />
-          <folding />
+          <folding>
+            <marker date="1522361746000" expanded="true" signature="5611:5780" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5645:5697" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5729:5780" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5818:6969" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5980:6640" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5989:6410" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="6673:6969" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="6682:6857" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7010:8900" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7015:7192" ph="&quot;&quot;&quot;ApproximateQLearningAgent...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7255:7402" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7429:7457" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7498:7942" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7507:7627" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7999:8473" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="8008:8081" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="8502:8900" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="8714:8900" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -481,7 +548,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="121" column="31" lean-forward="false" selection-start-line="121" selection-start-column="31" selection-end-line="121" selection-end-column="31" />
-          <folding />
+          <folding>
+            <marker date="1522361746000" expanded="true" signature="793:6137" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="4278:4822" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5842:5893" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5926:6037" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="6078:6137" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -489,7 +562,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2516">
           <caret line="152" column="78" lean-forward="true" selection-start-line="152" selection-start-column="78" selection-end-line="152" selection-end-column="78" />
-          <folding />
+          <folding>
+            <marker date="1522361746000" expanded="true" signature="5611:5780" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5645:5697" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5729:5780" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5818:6969" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5980:6640" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5989:6410" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="6673:6969" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="6682:6857" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7010:8900" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7015:7192" ph="&quot;&quot;&quot;ApproximateQLearningAgent...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7255:7402" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7429:7457" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7498:7942" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7507:7627" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7999:8473" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="8008:8081" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="8502:8900" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="8714:8900" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -537,7 +629,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="121" column="31" lean-forward="false" selection-start-line="121" selection-start-column="31" selection-end-line="121" selection-end-column="31" />
-          <folding />
+          <folding>
+            <marker date="1522361746000" expanded="true" signature="793:6137" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="4278:4822" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5842:5893" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5926:6037" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="6078:6137" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -545,7 +643,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2567">
           <caret line="155" column="30" lean-forward="true" selection-start-line="155" selection-start-column="30" selection-end-line="155" selection-end-column="30" />
-          <folding />
+          <folding>
+            <marker date="1522361746000" expanded="true" signature="5611:5780" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5645:5697" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5729:5780" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5818:6969" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5980:6640" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5989:6410" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="6673:6969" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="6682:6857" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7010:8900" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7015:7192" ph="&quot;&quot;&quot;ApproximateQLearningAgent...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7255:7402" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7429:7457" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7498:7942" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7507:7627" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7999:8473" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="8008:8081" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="8502:8900" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="8714:8900" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -577,7 +694,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="121" column="31" lean-forward="false" selection-start-line="121" selection-start-column="31" selection-end-line="121" selection-end-column="31" />
-          <folding />
+          <folding>
+            <marker date="1522361746000" expanded="true" signature="793:6137" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="4278:4822" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5842:5893" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5926:6037" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="6078:6137" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -585,7 +708,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2567">
           <caret line="155" column="57" lean-forward="false" selection-start-line="155" selection-start-column="57" selection-end-line="155" selection-end-column="57" />
-          <folding />
+          <folding>
+            <marker date="1522361746000" expanded="true" signature="5611:5780" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5645:5697" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5729:5780" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5818:6969" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5980:6640" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5989:6410" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="6673:6969" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="6682:6857" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7010:8900" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7015:7192" ph="&quot;&quot;&quot;ApproximateQLearningAgent...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7255:7402" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7429:7457" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7498:7942" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7507:7627" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7999:8473" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="8008:8081" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="8502:8900" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="8714:8900" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -617,7 +759,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2023">
           <caret line="121" column="31" lean-forward="true" selection-start-line="121" selection-start-column="31" selection-end-line="121" selection-end-column="31" />
-          <folding />
+          <folding>
+            <marker date="1522361746000" expanded="true" signature="793:6137" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="4278:4822" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5842:5893" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5926:6037" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="6078:6137" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -649,7 +797,26 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="2414">
           <caret line="146" column="13" lean-forward="true" selection-start-line="146" selection-start-column="13" selection-end-line="146" selection-end-column="13" />
-          <folding />
+          <folding>
+            <marker date="1522361746000" expanded="true" signature="5611:5780" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5645:5697" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5729:5780" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5818:6969" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5980:6640" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5989:6410" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="6673:6969" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="6682:6857" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7010:8900" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7015:7192" ph="&quot;&quot;&quot;ApproximateQLearningAgent...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7255:7402" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7429:7457" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7498:7942" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7507:7627" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7999:8473" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="8008:8081" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="8502:8900" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="8714:8900" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -703,34 +870,59 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/reinforcement/autograder.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="51">
-          <caret line="22" column="13" lean-forward="true" selection-start-line="22" selection-start-column="13" selection-end-line="22" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/reinforcement/pacman.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="631" column="37" lean-forward="true" selection-start-line="631" selection-start-column="37" selection-end-line="631" selection-end-column="37" />
+        <state relative-caret-position="10608">
+          <caret line="631" column="37" lean-forward="false" selection-start-line="631" selection-start-column="37" selection-end-line="631" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/reinforcement/valueIterationAgents.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2040">
-          <caret line="122" column="30" lean-forward="false" selection-start-line="122" selection-start-column="30" selection-end-line="122" selection-end-column="30" />
-          <folding />
+        <state relative-caret-position="2023">
+          <caret line="121" column="30" lean-forward="false" selection-start-line="121" selection-start-column="30" selection-end-line="121" selection-end-column="30" />
+          <folding>
+            <marker date="1522361746000" expanded="true" signature="793:6137" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="4278:4822" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5842:5893" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5926:6037" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="6078:6137" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/reinforcement/qlearningAgents.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-669">
-          <caret line="149" column="76" lean-forward="false" selection-start-line="149" selection-start-column="76" selection-end-line="149" selection-end-column="76" />
+        <state relative-caret-position="2363">
+          <caret line="139" column="32" lean-forward="false" selection-start-line="139" selection-start-column="32" selection-end-line="139" selection-end-column="32" />
+          <folding>
+            <marker date="1522361746000" expanded="true" signature="5611:5780" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5645:5697" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5729:5780" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5818:6969" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5980:6640" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="5989:6410" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="6673:6969" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="6682:6857" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7010:8900" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7015:7192" ph="&quot;&quot;&quot;ApproximateQLearningAgent...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7255:7402" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7429:7457" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7498:7942" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="7507:7627" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="7999:8473" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="8008:8081" ph="&quot;&quot;&quot;...&quot;&quot;&quot;" />
+            <marker date="1522361746000" expanded="true" signature="8502:8900" ph="..." />
+            <marker date="1522361746000" expanded="true" signature="8714:8900" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/reinforcement/autograder.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="29" column="43" lean-forward="false" selection-start-line="29" selection-start-column="43" selection-end-line="29" selection-end-column="43" />
           <folding />
         </state>
       </provider>
